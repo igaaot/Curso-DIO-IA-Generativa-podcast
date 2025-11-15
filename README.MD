@@ -40,7 +40,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- Original: [MidJourney](https://www.midjourney.com/app/) / Feito por mim pelo:(https://gemini.google.com/app?hl=pt-BR)
+- Original: [MidJourney](https://www.midjourney.com/app/) / Feito por mim pelo: [Gemini](https://gemini.google.com/app?hl=pt-BR)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
